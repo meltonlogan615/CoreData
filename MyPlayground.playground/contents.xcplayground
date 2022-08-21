@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='SearchView'/>
+        <page name='SearchViewController'/>
+        <page name='RecipeListTableViewController'/>
+        <page name='TestView'/>
+        <page name='HistoryViewController'/>
+        <page name='ViewedHistoryViewController'/>
+        <page name='RecipeViewController'/>
+        <page name='StageContainerViewController'/>
+        <page name='StageViewController'/>
+        <page name='AppDelegate'/>
+        <page name='UITextField-Extension'/>
+        <page name='ParseObjectProperties'/>
+        <page name='DummyData'/>
+        <page name='GlobalHelpers'/>
+        <page name='MyList'/>
+        <page name='DataProvider'/>
+        <page name='StagedCardView'/>
+        <page name='AdditionalInfo'/>
+        <page name='IngredientsView'/>
+        <page name='RecipeView'/>
+    </pages>
+</playground>
